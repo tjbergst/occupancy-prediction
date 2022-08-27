@@ -1,0 +1,21 @@
+loguru
+pydantic
+python-dotenv
+tensorflow
+pandas
+numpy
+statsmodels
+scikit-learn
+scipy
+
+# plotting
+matplotlib
+seaborn
+altair
+altair-data-server
+
+# dev
+ipython
+jupyter
+jupyterlab
+pytest
